@@ -6,3 +6,4 @@
 - moderation : moderation service
 - posts : post service
 - query : query service
+- infra : kubernetes config deployment
