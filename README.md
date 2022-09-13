@@ -7,6 +7,7 @@
 - posts : post service
 - query : query service
 - infra : kubernetes config deployment
+- skaffold : a config file to detect change and redeploy the container
 
 # Docker Command
 
